@@ -71,18 +71,20 @@ The application will be available at `http://localhost:5173`.
 ---
 
 ## 📸 Screenshots
+<img width="1280" height="624" alt="Screenshot 2026-02-28 at 11 49 29 PM" src="https://github.com/user-attachments/assets/24f7ea05-749e-48b4-9a3f-66142c8e6ff5" />
+
 
 ### 1. Wallet Selection & Connect
-![Wallet Modal]([REPLACE_WITH_SCREENSHOT_LINK])
+<img width="1280" height="636" alt="Screenshot 2026-02-28 at 11 49 45 PM" src="https://github.com/user-attachments/assets/bd67c54c-a236-4d19-b945-166342c9c530" />
+
 
 ### 2. Live Vote UI & Results Graph
-![Poll UI]([REPLACE_WITH_SCREENSHOT_LINK])
+<img width="1280" height="647" alt="Screenshot 2026-02-28 at 11 50 08 PM" src="https://github.com/user-attachments/assets/b2afae78-87b6-4da7-b685-20c7c7d4b53a" />
+
 
 ### 3. Transaction Success State
-![Transaction Success]([REPLACE_WITH_SCREENSHOT_LINK])
+<img width="1280" height="618" alt="Screenshot 2026-02-28 at 11 50 23 PM" src="https://github.com/user-attachments/assets/0f65cba2-a744-4038-9413-ae5cfa8ac399" />
 
-### 4. Passing Unit Tests
-![Unit Tests Output]([REPLACE_WITH_SCREENSHOT_LINK])
 
 ---
 *Built for the Stellar Orange Belt Challenge.*
